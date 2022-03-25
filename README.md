@@ -2,7 +2,7 @@
 基于内核模式的硬件信息欺骗工具
 
 <h1 align="center">
-	<img src="demo.png" alt="">
+	<img src="demo.png" alt="">--
 	<br>
 </h1>
 
